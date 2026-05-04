@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+.venv/
+*.db
+*.sqlite
+*.sqlite3
+credentials.*
+.master_key
+*.sock
+*.log
+Google Passwords.csv
+Chrome Passwords.csv
+*passwords*.csv
